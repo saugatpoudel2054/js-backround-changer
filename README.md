@@ -1,6 +1,3 @@
-# js-backround-changer
-Simple js page to change color based on click event
-
-1st project on learning JS series.
-
+# JS Projects
+Simple js projects to learns JS
 Following John Smilga's coding addict youtube channel.
